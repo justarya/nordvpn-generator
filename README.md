@@ -14,7 +14,7 @@ Need VPN? for Netflix? for Unblock website? or anything? **NordVPN Generator** c
 
 Clone repo
 
-```console
+```shell
 git clone https://github.com/justarya/nordvpn-generator.git
 ```
 
@@ -22,7 +22,7 @@ git clone https://github.com/justarya/nordvpn-generator.git
 
 ### Generate account
 
-```console
+```shell
 $ python index.py
 
 Username: mail@mail.co
@@ -33,7 +33,7 @@ Expired Date: 2020-12-31
 
 ### Generate account with certain amount
 
-```console
+```shell
 $ python index.py 100
 
 Username: mail@mail.co
